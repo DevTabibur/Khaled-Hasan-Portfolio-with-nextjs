@@ -29,7 +29,7 @@ const Resume = () => {
 
       <Header className="dark" />
 
-      {/* <BannerSection />
+      <BannerSection />
 
       <ServiceSection />
 
@@ -37,7 +37,7 @@ const Resume = () => {
 
       <CounterSection />
 
-      <ScheduleSection /> */}
+      <ScheduleSection />
 
       <SubscribeSection />
 

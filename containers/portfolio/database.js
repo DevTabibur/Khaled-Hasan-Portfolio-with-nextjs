@@ -62,41 +62,69 @@ module.exports = {
 
     AllImgData: [
         {
-            img: '/portfolio/1.jpg'
+            img: '/portfolio/triangle.jpeg'
         },
         {
-            img: '/portfolio/2.jpg'
+            img: '/portfolio/travel kites.jpeg'
         },
         {
-            img: '/portfolio/3.jpg'
+            img: '/portfolio/tati polli.jpeg'
         },
         {
-            img: '/portfolio/4.jpg'
+            img: '/portfolio/sony lite.jpeg'
         },
         {
-            img: '/portfolio/5.jpg'
+            img: '/portfolio/shutki bajar.jpeg'
         },
         {
-            img: '/portfolio/6.jpg'
+            img: '/portfolio/shirt e.jpeg'
         },
         {
-            img: '/portfolio/7.jpg'
+            img: '/portfolio/s.jpeg'
         },
         {
-            img: '/portfolio/8.png'
+            img: '/portfolio/rupoboti.jpeg'
         },
         {
-            img: '/portfolio/9.jpg'
+            img: '/portfolio/priyoo sohor b-bariya.jpeg'
         },
         {
-            img: '/portfolio/10.jpg'
+            img: '/portfolio/polli rokomari.jpeg'
         },
         {
-            img: '/portfolio/11.jpg'
+            img: '/portfolio/pink s.jpeg'
         },
         {
-            img: '/portfolio/12.png'
+            img: '/portfolio/one touch.jpeg'
         },
+        {
+            img: '/portfolio/noya e-shop.jpeg'
+        },
+        {
+            img: '/portfolio/november.jpeg'
+        },
+        {
+            img: '/portfolio/noor.jpeg'
+        },
+        {
+            img: '/portfolio/noor agro.jpeg'
+        },
+        {
+            img: '/portfolio/new onterpreneur.jpeg'
+        },
+        {
+            img: '/portfolio/msid.jpeg'
+        },
+        {
+            img: '/portfolio/mowchak.jpeg'
+        },
+        {
+            img: '/portfolio/mimir ranna ghor.jpeg'
+        },
+        {
+            img: '/portfolio/kozzyby.jpeg'
+        },
+        
     ],
     PortfolioDetail1Data: [
         {

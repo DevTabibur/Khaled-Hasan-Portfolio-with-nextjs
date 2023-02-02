@@ -5,7 +5,9 @@ import Lightbox from "react-image-lightbox";
 const AllImgFun = ({ className, title, subTitle }) => {
 
     const initilindex = { index: 0, isOpen: false }
-    const [photoIndex, setPhotoIndex] = useState(initilindex)
+    const [photoIndex, setPhotoIndex] = useState(initilindex);
+
+    console.log('photoIndex', photoIndex)
 
     const onClickImg = (img, i) => {
         setPhotoIndex({ ...photoIndex, index: i, image: img, isOpen: true })
