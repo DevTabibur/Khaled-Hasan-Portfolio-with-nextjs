@@ -19,7 +19,7 @@ const Services = () => (
             <Row>
                 {ServiceData.map((item, i) => {
                     return (
-                        <Col lg="3" sm="6" key={i}>
+                        <Col lg="4" sm="6" key={i}>
                             <div className="service bg-white">
                                 <div className="img-block">
                                     <img alt="" className="service-img img-fluid"

@@ -87,44 +87,44 @@ module.exports = {
     ServiceData: [
         {
             img: '/assets/images/resume/service-exprience/1.png',
-            name: 'UI design',
+            name: 'Website Design',
             desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
         },
         {
             img: '/assets/images/resume/service-exprience/2.png',
-            name: 'UX design',
+            name: 'Website Development',
             desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
         },
         {
             img: '/assets/images/resume/service-exprience/5.png',
-            name: 'web design',
+            name: 'Digital Marketing',
             desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
         },
         {
             img: '/assets/images/resume/service-exprience/6.png',
-            name: 'web design',
+            name: 'Mobile Apps Development',
             desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
         },
         {
             img: '/assets/images/resume/service-exprience/3.png',
-            name: 'web design',
+            name: 'Business Consultancy',
             desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
         },
         {
             img: '/assets/images/resume/service-exprience/4.png',
-            name: 'web design',
+            name: 'Technical Support',
             desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
         },
-        {
-            img: '/assets/images/resume/service-exprience/7.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
-        },
-        {
-            img: '/assets/images/resume/service-exprience/8.png',
-            name: 'web design',
-            desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
-        },
+        // {
+        //     img: '/assets/images/resume/service-exprience/7.png',
+        //     name: 'web design',
+        //     desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+        // },
+        // {
+        //     img: '/assets/images/resume/service-exprience/8.png',
+        //     name: 'web design',
+        //     desc: 'Unlike team chat apps, Flow is designed to help your team stay focused by keeping relevant and actionable.'
+        // },
     ],
 
     AboutData: [

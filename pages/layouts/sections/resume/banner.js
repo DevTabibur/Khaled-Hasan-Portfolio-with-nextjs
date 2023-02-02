@@ -18,13 +18,13 @@ const Banner = () => (
                                         <h5 className="text-hash text-uppercase"># resume</h5>
                                     </div>
                                     <div className="header-text">
-                                        <h1><span className="bold-text">Hi, I’m</span><br /> Elana Parker</h1>
+                                        <h1><span className="bold-text">Hi, I’m</span><br /> Khaled Hasan</h1>
                                     </div>
                                     <div className="header-sub-text">
-                                        <h4 className="font-secondary d-flex">Html , <span className="typed-resume">
+                                        <h4 className="font-secondary d-flex">Designer , <span className="typed-resume">
                                         <Typewriter
                                             options={{
-                                                strings:['Css, Bootstrap, Java Script'],
+                                                strings:['Developer, Marketer'],
                                                 autoStart: true,
                                                 loop: true,
                                             }}
@@ -47,7 +47,7 @@ const Banner = () => (
                                     <div className="link-horizontal">
                                         <ul>
                                             <li><a className="btn btn-default primary-btn back-white">know more</a></li>
-                                            <li><a className="btn btn-default primary-btn back-white">download cv</a></li>
+                                            <li><a className="btn btn-default primary-btn back-white">hire me</a></li>
                                         </ul>
                                     </div>
                                 </div>
