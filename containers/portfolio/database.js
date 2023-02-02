@@ -2,61 +2,61 @@ module.exports = {
 
     FeshionImgData: [
         {
-            img: '/portfolio/1.jpg'
+            img: '/portfolio/al-amana24.jpeg'
         },
         {
-            img: '/portfolio/2.jpg'
+            img: '/portfolio/arihas collection.jpeg'
         },
         {
-            img: '/portfolio/3.jpg'
+            img: '/portfolio/ayan fashion.jpeg'
         },
         {
-            img: '/portfolio/4.jpg'
+            img: '/portfolio/ben.rois.jpeg'
         }
     ],
 
     BagsImgData: [
         {
-            img: '/portfolio/5.jpg'
+            img: '/portfolio/chander konna.jpeg'
         },
         {
-            img: '/portfolio/6.jpg'
+            img: '/portfolio/creative creation.jpeg'
         },
         {
-            img: '/portfolio/7.jpg'
+            img: '/portfolio/emart.jpeg'
         },
         {
-            img: '/portfolio/8.png'
+            img: '/portfolio/food hatt.jpeg'
         },
     ],
 
     ShoesImgData: [
         {
-            img: '/portfolio/9.jpg'
+            img: '/portfolio/give & take.jpeg'
         },
         {
-            img: '/portfolio/10.jpg'
+            img: '/portfolio/hello guys.jpeg'
         },
         {
-            img: '/portfolio/12.png'
+            img: '/portfolio/home chef.jpeg'
         },
         {
-            img: '/portfolio/8.png'
+            img: '/portfolio/intex.jpeg'
         },
     ],
 
     WatchImgData: [
         {
-            img: '/portfolio/13.jpg'
+            img: '/portfolio/isha.jpeg'
         },
         {
-            img: '/portfolio/11.jpg'
+            img: `/portfolio/keya's beauty shop.jpeg`
         },
         {
-            img: '/portfolio/10.jpg'
+            img: '/portfolio/kozzyby.jpeg'
         },
         {
-            img: '/portfolio/12.png'
+            img: '/portfolio/noor.jpeg'
         },
     ],
 

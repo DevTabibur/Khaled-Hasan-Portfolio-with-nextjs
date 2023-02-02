@@ -2,7 +2,7 @@ import React from 'react';
 import { ServiceData } from '../../../../database/layouts/resume/database'
 import {Container,Row,Col} from 'reactstrap'
 const Services = () => (
-    <section className="resume services bg-pink">
+    <section id='services' className="resume services bg-pink">
         <Container>
             <Row>
                 <Col md="8" className="offset-md-2">

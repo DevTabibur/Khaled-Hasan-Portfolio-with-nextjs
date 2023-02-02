@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { TabContent, TabPane, Nav, NavItem, NavLink } from 'reactstrap';
 import Lightbox from "react-image-lightbox";
 import { Container, Row, Col, Card, CardHeader, CardBody, Media } from 'reactstrap'
-import { AllImgData, BagsImgData, FeshionImgData, ShoesImgData, WatchImgData } from './database';
+import { AllImgData, BagsImgData, DesignImgData, ShoesImgData, WatchImgData } from './database';
 import AllImgFun from './Gallerys/allImgs';
 import FashionImgFunc from './Gallerys/fashionImgs';
 import BagsImgFunc from './Gallerys/bagsImgs';

@@ -19,6 +19,7 @@ const Home = () => {
           <title>Khaled Hasan - Designer Developer Marketer</title>
         </Head>
       </div>
+      
       <Resume />
     </Fragment>
   );

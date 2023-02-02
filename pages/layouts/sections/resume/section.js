@@ -2,7 +2,7 @@ import React from 'react';
 import Portfolio from '../../../../containers/portfolio/basic'
 import {Row,Col} from 'reactstrap'
 const Section = () => (
-    <section className="resume portfolio-section zoom-gallery">
+    <section id='portfolio' className="resume portfolio-section zoom-gallery">
         <Row>
             <Col md="8" className="offset-md-2">
                 <div className="title title2">
