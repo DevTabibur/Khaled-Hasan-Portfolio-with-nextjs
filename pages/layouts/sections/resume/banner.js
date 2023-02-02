@@ -9,7 +9,7 @@ const Banner = () => (
                 <Container>
                     <Row>
                         <Col lg="5" md="6">
-                            <img alt="" className="img-fluid set-abs bottom-0 right-0" src="/assets/images/resume/h7.png" />
+                            <img alt="" className="img-fluid set-abs bottom-0 right-0" src="/assets/images/resume/khaled hasan - portfolio.jpeg" />
                         </Col>
                         <Col lg="6" md="6" className="offset-lg-1">
                             <div className="center-text">

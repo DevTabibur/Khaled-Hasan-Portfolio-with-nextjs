@@ -29,20 +29,19 @@ const Resume = () => {
 
       <Header className="dark" />
 
-      {/* <BannerSection /> */}
+      {/* <BannerSection />
 
       <ServiceSection />
 
-      {/* <Section />
+      <Section />
 
       <CounterSection />
 
-      <ScheduleSection />
-
+      <ScheduleSection /> */}
 
       <SubscribeSection />
 
-      <FooterSection /> */}
+      <FooterSection />
     </div>
   );
 };

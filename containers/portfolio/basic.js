@@ -26,22 +26,22 @@ const Basic = ({ className, title, subTitle, fluid }) => {
                                 </NavItem>
                                 <NavItem>
                                     <NavLink className={activeTab == '2' ? 'active' : ''} onClick={() => setActiveTab('2')}>
-                                        Fashion
+                                        DESIGN
                                     </NavLink>
                                 </NavItem>
                                 <NavItem>
                                     <NavLink className={activeTab == '3' ? 'active' : ''} onClick={() => setActiveTab('3')}>
-                                        Bags
+                                        DEVELOPMENT
                                     </NavLink>
                                 </NavItem>
                                 <NavItem>
                                     <NavLink className={activeTab == '4' ? 'active' : ''} onClick={() => setActiveTab('4')}>
-                                        Shoes
+                                        MARKETING
                                     </NavLink>
                                 </NavItem>
                                 <NavItem>
                                     <NavLink className={activeTab == '5' ? 'active' : ''} onClick={() => setActiveTab('5')}>
-                                        Watch
+                                        LEAD GENERATION
                                     </NavLink>
                                 </NavItem>
                             </Nav>
