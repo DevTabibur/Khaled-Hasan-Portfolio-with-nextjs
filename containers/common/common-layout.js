@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import Header from "./header"
-import Breadcrumb from "./breadcrumb"
 import Footer from "./footer"
 
 const CommonLayout = ({ children, pathList, pathTitle }) => {
@@ -16,7 +15,6 @@ const CommonLayout = ({ children, pathList, pathTitle }) => {
         <>
             <Header className="dark agency" />
 
-            <Breadcrumb list={pathList} title={pathTitle} />
 
             <>{children}</>
 

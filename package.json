@@ -1,9 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next",
-    "prod:build": "next build",
-    "homepage": "https://react.pixelstrap.com/unice/"
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
   },
   "dependencies": {
     "@apollo/client": "^3.5.10",

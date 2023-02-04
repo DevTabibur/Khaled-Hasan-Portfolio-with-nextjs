@@ -4,12 +4,10 @@ import Head from "next/head";
 // import Custom Components
 import Header from "../../containers/common/header";
 import BannerSection from "../layouts/sections/resume/banner";
-import AboutSection from "../layouts/sections/resume/about";
 import ServiceSection from "../layouts/sections/resume/services";
 import Section from "../layouts/sections/resume/section";
 import CounterSection from "../layouts/sections/resume/counter";
 import ScheduleSection from "../layouts/sections/resume/schedule";
-import PricingSection from "../layouts/sections/resume/pricing";
 import SubscribeSection from "../layouts/sections/resume/subscribe";
 import FooterSection from "../layouts/sections/resume/footer";
 

@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
-import { MENUITEMS } from "../../constant/menu";
 import { Container, Row } from "reactstrap";
 const Nav = () => {
   const [sidebar, setSidebar] = useState(false);

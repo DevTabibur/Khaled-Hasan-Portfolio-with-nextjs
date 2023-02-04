@@ -5,13 +5,13 @@ import Lightbox from 'react-image-lightbox';
 import { Modal, ModalHeader, ModalBody } from 'reactstrap';
 import { Container, Row, Col } from 'reactstrap';
 
-const images = [
-    require('../../public/assets/images/portfolio/2.jpg'),
-    require('../../public/assets/images/portfolio/3.jpg'),
-    require('../../public/assets/images/portfolio/5.jpg'),
-    require('../../public/assets/images/portfolio/4.jpg'),
-    require('../../public/assets/images/portfolio/5.jpg')
-]
+// const images = [
+//     require('../../public/assets/images/portfolio/2.jpg'),
+//     require('../../public/assets/images/portfolio/3.jpg'),
+//     require('../../public/assets/images/portfolio/5.jpg'),
+//     require('../../public/assets/images/portfolio/4.jpg'),
+//     require('../../public/assets/images/portfolio/5.jpg')
+// ]
 var settings = {
     dots: false,
     infinite: true,

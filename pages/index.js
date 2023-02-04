@@ -1,5 +1,4 @@
 import React, { Fragment, useEffect } from "react";
-import Head from "next/head";
 // import Custom Components
 
 import Resume from "./layouts/resume";
@@ -14,12 +13,6 @@ const Home = () => {
 
   return (
     <Fragment>
-      <div className="landing-page">
-        <Head>
-          <title>Khaled Hasan - Designer Developer Marketer</title>
-        </Head>
-      </div>
-      
       <Resume />
     </Fragment>
   );
